@@ -128,8 +128,7 @@ Grafana dashboards for visualization
 Webhook integrations with existing Epicor ERP system
 MQTT broker for IoT sensor communication
 
-Simulation Link: https://autoparts-ai-agents.n8n.cloud/workflow/demo
-[Credentials: demo@autoparts.co.ke / DemoPass2026]
+Simulation Link:[https://eu1.make.com/public/shared-scenario/29QcBW82wQ7/integration-webhooks-open-ai-chat-gpt-s]
 GitHub Repository: https://github.com/autoparts-kenya/ai-agents-implementation
 The repository contains:
 
